@@ -1,4 +1,4 @@
-SadTalker Installation and Setup Guide
+# SadTalker Installation and Setup Guide
 Overview
 SadTalker generates talking head videos from a single portrait image and audio input.
 
